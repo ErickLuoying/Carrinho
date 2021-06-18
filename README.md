@@ -7,7 +7,7 @@ O objetivo da atividade foi a reprodução de um carrinho de brinquedo produzido
 
 ## Carrinho Original
 
-
+![Original](https://user-images.githubusercontent.com/48416936/122618013-c62b5380-d063-11eb-8f71-f4434a3ff93e.png)
 
 ## Documento de proposta do projeto
 
