@@ -8,6 +8,8 @@ O objetivo da atividade foi a reprodução de um carrinho de brinquedo produzido
 
 Neste documento tem todas as peças que compõem o carrinho assim como suas medidas.
 
+- [Documento - Proposta](https://drive.google.com/file/d/1v8zqfTdwTqAdX60l04jJNKvUMF67kbft/view?usp=sharing);
+
 ## Carrinho Original
 
 ![Original](https://user-images.githubusercontent.com/48416936/122618013-c62b5380-d063-11eb-8f71-f4434a3ff93e.png)
