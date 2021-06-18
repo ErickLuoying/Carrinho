@@ -1,6 +1,6 @@
 # Carrinho
 
-##Objetivo
+## Objetivo
 
 O objetivo da atividade foi a reprodução de um carrinho de brinquedo produzido a mais de 15 anos atrás por meio de modelagem computacional 3D no software Catia. A modelagem foi realizado tanto para a parte externa quanto para todos os componentes internos, levando em consideração um alto nível de detalhamento. Ainda foi proposta uma otimização do carrinho para um formato mais futurístico.
 
