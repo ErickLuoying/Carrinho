@@ -12,8 +12,12 @@ Neste documento tem todas as peças que compõem o carrinho assim como suas medi
 
 ## Carrinho Original
 
-<img width="200"  height="200" src="https://user-images.githubusercontent.com/48416936/122618013-c62b5380-d063-11eb-8f71-f4434a3ff93e.png">
-## Vista explodida
+<p align="center">
+<img width="400" height="400" src="https://user-images.githubusercontent.com/48416936/122618013-c62b5380-d063-11eb-8f71-f4434a3ff93e.png">
+  
+ </p>
+ 
+ ## Vista explodida
 
 ![Explodida](https://user-images.githubusercontent.com/48416936/122618132-ff63c380-d063-11eb-8dc3-472a994ae609.png)
 
